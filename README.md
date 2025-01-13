@@ -1,0 +1,1 @@
+Weather App made in svelte with typescript and tailwindcss
