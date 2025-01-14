@@ -14,7 +14,7 @@ const config = {
 			fallback: "index.html"
 		}),
 		paths: {
-			base: "/Weather-App",
+			base: dev ? '' : "/Weather-App",
 		},
 	}
 };
